@@ -31,3 +31,8 @@ dist
 
 # OS files
 .DS_Store
+# Ignore package.json and package-lock.json from both server and client
+client/package.json
+client/package-lock.json
+server/package.json
+server/package-lock.json

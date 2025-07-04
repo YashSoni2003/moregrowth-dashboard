@@ -30,7 +30,3 @@ cd server
 npm install
 npm run dev
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Tailwind](https://img.shields.io/badge/Styling-TailwindCSS-blueviolet)
-![Node](https://img.shields.io/badge/Backend-Node.js-green)
-![Zustand](https://img.shields.io/badge/State-Zustand-ff69b4)
